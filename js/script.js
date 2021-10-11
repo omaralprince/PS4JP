@@ -101,7 +101,7 @@ function firmwareSelected() {
     resetPage();
   } else {
     var exploits = getExploits();
-    updatePage("Firmware Exploit | " + hash, hash, exploits);
+    updatePage("Firmware Exploit |Omar ALPrincE " + hash, hash, exploits);
   }
 }
 

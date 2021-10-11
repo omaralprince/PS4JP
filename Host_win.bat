@@ -1,5 +1,5 @@
 @echo off
-title Omar ALPrincE - Host PS4 Jailbreak
+title Omar ALPrincE PS4تهكير - Host PS4 Jailbreak
 cls
 python host.py
 pause
